@@ -148,7 +148,7 @@ This repository showcases my comprehensive data analysis portfolio, demonstratin
 
 Each project includes:
 - Comprehensive Jupyter notebooks with analysis
-- Professional README documentation
+- README documentation
 - Business recommendations and insights
 - Technical implementation details
 - Reproducible code and datasets
@@ -162,6 +162,7 @@ Currently exploring:
 - Real-time data processing pipelines
 - Advanced visualization with D3.js
 - Cloud-based analytics solutions
+- AI Solutions for Data Analysis
 
 ---
 
