@@ -70,9 +70,9 @@ The project uses 5 datasets:
 3. **Develop specific strategies** for each customer profile
 4. **Consider price adjustments** based on identified usage patterns
 
-## 👨‍💼 Learning Context
+## 👨‍💼 Project Context
 
-This project was developed as part of the TripleTen Data Analysis training program, applying concepts of:
+This project demonstrates the application of:
 - Exploratory data analysis
 - Inferential statistics
 - Data visualization

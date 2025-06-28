@@ -192,9 +192,9 @@ The analysis aims to:
 - **Segmentation Studies**: User behavior by demographics or device types
 - **Multivariate Testing**: Combined effect of multiple UI changes
 
-## 🎓 Learning Context
+## 📚 Skills Demonstrated
 
-This project was developed as part of the TripleTen Data Analysis program, demonstrating:
+This project showcases the following data analysis capabilities:
 
 ### **Advanced Analytics Skills**
 - **Behavioral Data Analysis**: Complex user journey mapping and analysis

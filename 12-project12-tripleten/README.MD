@@ -89,7 +89,7 @@ The analysis aims to:
 ## 📊 Interactive Dashboard & Presentations
 
 ### 🌐 **Tableau Public Dashboard**
-[**View Interactive Dashboard →**](https://public.tableau.com/app/profile/isaque.nascimento/viz/Project12-TripleTen/Dashboard1?publish=yes)
+[**View Interactive Dashboard →**](https://public.tableau.com/app/profile/isaque.nascimento/viz/TrendingContentAnalysis/Dashboard1?publish=yes)
 
 **Dashboard Features:**
 - Interactive filtering by region and time period
@@ -168,9 +168,9 @@ The analysis aims to:
 - Seasonal and periodic pattern identification
 - Historical trend progression insights
 
-## 🎓 Learning Context
+## 📚 Skills Demonstrated
 
-This project was developed as part of the TripleTen Data Analysis program, demonstrating:
+This project showcases the following data analysis capabilities:
 
 ### **Data Visualization Expertise**
 - **Interactive Dashboard Creation**: Professional Tableau Public dashboard development

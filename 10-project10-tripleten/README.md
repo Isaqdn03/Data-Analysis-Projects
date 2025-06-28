@@ -189,9 +189,9 @@ The analysis aims to:
 - **Target Market**: Tech-savvy customers seeking novel experiences
 - **Operational Efficiency**: Lower labor costs through automation
 
-## 🎓 Learning Context
+## 📚 Skills Demonstrated
 
-This project was developed as part of the TripleTen Data Analysis program, demonstrating:
+This project showcases the following data analysis capabilities:
 
 ### **Market Research Skills**
 - **Industry Analysis**: Comprehensive food service market evaluation

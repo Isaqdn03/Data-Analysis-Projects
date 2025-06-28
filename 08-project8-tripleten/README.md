@@ -192,9 +192,9 @@ The analysis aims to:
 - **80%** of budget → High-performing channels (3, 7)
 - **20%** of budget → Maintenance and optimization testing
 
-## 🎓 Learning Context
+## 📚 Skills Demonstrated
 
-This project was developed as part of the TripleTen Data Analysis program, demonstrating:
+This project showcases the following data analysis capabilities:
 
 ### **Technical Skills**
 - **Advanced Pandas Optimization**: Memory-efficient data processing techniques

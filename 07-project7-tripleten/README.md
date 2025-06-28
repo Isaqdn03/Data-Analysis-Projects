@@ -62,7 +62,7 @@ The project aims to:
 
 ```
 07-project7-tripleten/
-├── project7-tripleten.ipynb           # Main analysis notebook
+├── chicago-taxi-analysis.ipynb        # Main analysis notebook
 ├── datasets/
 │   ├── moved_project_sql_result_01.csv # Taxi company trip data (66 lines)
 │   ├── moved_project_sql_result_04.csv # Destination analysis data (96 lines)
@@ -101,7 +101,7 @@ The project aims to:
 
 2. **Run the analysis**
    ```bash
-   jupyter notebook project7-tripleten.ipynb
+   jupyter notebook chicago-taxi-analysis.ipynb
    ```
 
 3. **Follow the notebook sections:**
@@ -143,9 +143,9 @@ The project includes several key visualizations:
 - Trip duration increases by approximately 21% (7+ minutes) on rainy Saturdays
 - Weather-related delays should be factored into scheduling and pricing
 
-## 🎓 Learning Context
+## 📚 Skills Demonstrated
 
-This project was developed as part of the TripleTen Data Analysis program, demonstrating:
+This project showcases the following data analysis capabilities:
 - **SQL to Python Integration**: Working with SQL query results in Python
 - **Statistical Analysis**: Hypothesis testing with real-world data
 - **Data Visualization**: Creating meaningful charts for business insights

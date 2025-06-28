@@ -172,9 +172,9 @@ The analysis identifies **2012-2016** as the most relevant period for:
 - Recent market trends and preferences
 - Predictive modeling for future releases
 
-## 🎓 Learning Context
+## 📚 Skills Demonstrated
 
-This project was developed as part of the TripleTen Data Analysis program, demonstrating:
+This project showcases the following data analysis capabilities:
 - **Comprehensive EDA**: Systematic exploration of large datasets
 - **Statistical Analysis**: Proper hypothesis testing methodology
 - **Data Visualization**: Professional charts and graphs for business insights

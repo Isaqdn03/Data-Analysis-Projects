@@ -178,9 +178,9 @@ The analysis aims to:
 3. **Monitoring Plan**: Track post-implementation metrics to validate results
 4. **Future Testing**: Apply successful elements to other areas of the business
 
-## 🎓 Learning Context
+## 📚 Skills Demonstrated
 
-This project was developed as part of the TripleTen Data Analysis program, demonstrating:
+This project showcases the following data analysis capabilities:
 
 ### **Statistical Analysis Skills**
 - **Hypothesis Testing**: Proper application of statistical tests

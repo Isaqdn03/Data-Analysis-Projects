@@ -1,4 +1,4 @@
-# TripleTen Data Analysis - Final Capstone Project
+# Data Analysis Capstone - Multi-Domain Business Intelligence
 
 **Advanced Analytics Portfolio | Project 14**
 
@@ -304,4 +304,4 @@ This capstone project demonstrates expertise in:
 
 ---
 
-*This capstone project represents the culmination of the TripleTen Data Analysis program, demonstrating mastery of advanced analytics methodologies and business intelligence capabilities across multiple domains.* 
+*This capstone project demonstrates mastery of advanced analytics methodologies and business intelligence capabilities across multiple domains, showcasing the complete data analysis lifecycle from exploration to implementation.* 
