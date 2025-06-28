@@ -9,7 +9,7 @@ This repository showcases my comprehensive data analysis portfolio, demonstratin
 ## 🎯 Portfolio Overview
 
 **Timeline**: 10+ months of intensive project-based work  
-**Projects**: 14 comprehensive data analysis projects  
+**Projects**: 12 comprehensive data analysis projects  
 **Skills Developed**: Python, SQL, Statistical Analysis, Machine Learning, Business Intelligence, A/B Testing
 
 ### 📊 Key Competencies Demonstrated
@@ -26,70 +26,81 @@ This repository showcases my comprehensive data analysis portfolio, demonstratin
 ## 📁 Project Portfolio
 
 ### 🏁 Capstone: Multi-Domain Business Intelligence Suite
-**Project 14**: Comprehensive analytics demonstrating mastery across three domains:
+**[multi-domain-business-intelligence/](12-multi-domain-business-intelligence/)**: Comprehensive analytics demonstrating mastery across three domains:
 - **E-commerce Customer Segmentation**: RFM analysis identifying 4 strategic segments
 - **A/B Testing Framework**: Statistical analysis of recommender system effectiveness
 - **SQL Database Analytics**: Book platform user behavior analysis
 
 ### 📈 Advanced Analytics Projects
 
-#### Project 13: Predictive Analytics for Customer Retention
+#### Predictive Analytics for Customer Retention
+**[fitness-churn-prediction-model/](11-fitness-churn-prediction-model/)**
 - **Focus**: Machine learning for churn prediction
 - **Impact**: 93% accuracy in identifying at-risk customers
 - **Tech**: scikit-learn, feature engineering, model evaluation
 
-#### Project 12: Interactive Business Dashboard Development
+#### Interactive Business Dashboard Development
+**[business-intelligence-dashboard/](10-business-intelligence-dashboard/)**
 - **Focus**: Real-time KPI monitoring and visualization
 - **Tool**: Tableau Public with dynamic filtering
 - **[Live Dashboard →](https://public.tableau.com/app/profile/isaque.nascimento/viz/Project12-TripleTen/Dashboard1?publish=yes)**
 
-#### Project 11: User Behavior Analytics
+#### User Behavior Analytics
+**[user-behavior-funnel-analysis/](09-user-behavior-funnel-analysis/)**
 - **Focus**: Funnel analysis and conversion optimization
 - **Dataset**: 244,126 events from 7,551 users
 - **Insights**: Identified key drop-off points in user journey
 
 ### 💼 Business Analytics Projects
 
-#### Project 10: Market Analysis for Business Expansion
+#### Market Analysis for Business Expansion
+**[restaurant-market-expansion-study/](08-restaurant-market-expansion-study/)**
 - **Focus**: Location intelligence for restaurant industry
 - **Scale**: 9,651 establishments analyzed
 - **Deliverable**: Strategic recommendations for new business concept
 
-#### Project 9: A/B Testing & Hypothesis Prioritization
+#### A/B Testing & Hypothesis Prioritization
+**[ab-testing-conversion-optimization/](07-ab-testing-conversion-optimization/)**
 - **Focus**: ICE/RICE frameworks and statistical testing
 - **Result**: 13.8% conversion improvement validated
 - **Methods**: Z-tests, Mann-Whitney U tests
 
-#### Project 8: Marketing ROI & Business Metrics
+#### Marketing ROI & Business Metrics
+**[ecommerce-marketing-roi-analysis/](06-ecommerce-marketing-roi-analysis/)**
 - **Focus**: Comprehensive business analytics platform
 - **Metrics**: CAC, LTV, ROI by channel
 - **Impact**: Identified 30-40% budget optimization opportunity
 
-#### Project 7: Geospatial Data Analysis
+#### Geospatial Data Analysis
+**[chicago-transportation-analytics/](05-chicago-transportation-analytics/)**
 - **Focus**: SQL-based analysis of transportation patterns
 - **Finding**: Weather impact on trip duration (21% increase)
 - **Tools**: SQL, hypothesis testing, visualization
 
 ### 🎮 Industry Analysis Projects
 
-#### Project 6: Video Game Market Analysis
+#### Video Game Market Analysis
+**[gaming-industry-market-analysis/](04-gaming-industry-market-analysis/)**
 - **Focus**: Multi-regional market analysis
 - **Scale**: 16,715 games across platforms
 - **Methods**: Statistical testing, trend analysis
 
-#### Project 5: Interactive Data Application
-- **Focus**: Web-based data exploration tool
-- **Tech**: Streamlit, plotly, deployment on Render
-- **[Live App →](https://project5-tripleten.onrender.com)**
+#### Video Game Market Analysis (Regional Focus)
+**[video-game-market-analysis/](03-video-game-market-analysis/)**
+- **Focus**: Multi-regional market analysis
+- **Scale**: 16,715 games across platforms
+- **Methods**: Statistical testing, trend analysis
 
 ### 📊 Foundational Projects
 
-#### Project 4: Telecommunications Customer Analysis
+#### Telecommunications Customer Analysis
+**[telecom-plan-optimization-study/](02-telecom-plan-optimization-study/)**
 - **Focus**: Plan comparison and revenue optimization
 - **Method**: Statistical hypothesis testing
 - **Result**: Strategic pricing recommendations
 
-#### Project 3: Retail Customer Behavior Analysis
+#### Retail Customer Behavior Analysis
+**[instacart-market-basket-analysis/](01-instacart-market-basket-analysis/)**
 - **Focus**: Purchase pattern analysis
 - **Scale**: 200,000 customers, 3 million orders
 - **Insights**: Product affinity and timing patterns
@@ -114,19 +125,19 @@ This repository showcases my comprehensive data analysis portfolio, demonstratin
 
 ## 📈 Skills Progression
 
-### Foundation Phase (Projects 3-5)
+### Foundation Phase (Market Basket Analysis, Telecom Optimization)
 - Data cleaning and preprocessing
 - Exploratory data analysis
 - Basic statistical methods
 - First interactive applications
 
-### Intermediate Phase (Projects 6-9)
+### Intermediate Phase (Gaming Analysis, Transportation Analytics, Marketing ROI)
 - Advanced statistical testing
 - Business metrics development
 - A/B testing frameworks
 - Marketing analytics
 
-### Advanced Phase (Projects 10-14)
+### Advanced Phase (Churn Prediction, Business Intelligence, Multi-Domain)
 - Machine learning applications
 - Predictive modeling
 - Complex segmentation
@@ -148,7 +159,7 @@ This repository showcases my comprehensive data analysis portfolio, demonstratin
 
 Each project includes:
 - Comprehensive Jupyter notebooks with analysis
-- README documentation
+- Professional README documentation
 - Business recommendations and insights
 - Technical implementation details
 - Reproducible code and datasets
